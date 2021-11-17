@@ -1,2 +1,7 @@
 # nse-option-chain
-A tool for scraping option chain data from NSE (India) website for derivative option analysis.  Reference: https://www.nseindia.com/option-chain
+A tool for scraping option chain data from NSE (India) website for derivative option analysis.  
+
+Frontend : ReactJs
+Backend : Flask
+
+Reference: https://www.nseindia.com/option-chain
